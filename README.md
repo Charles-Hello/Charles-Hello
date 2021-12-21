@@ -10,10 +10,6 @@
 * 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: ***1140601003@qq.com* 
 * ☘ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝘓𝘢𝘸**
 
-<p><img alt="GitHub metrics" src="https://metrics.lecoq.io/Oreomeow"/> <img alt="Morning" src="https://github.com/Oreomeow/Oreomeow/blob/main/morning.png" width="300"/></p>
-
-<p><img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Oreomeow"/> <img alt="Afternoon" src="https://github.com/Oreomeow/Oreomeow/blob/main/afternoon.png" width="270"/></p>
-
 <p><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Oreomeow&amp;langs_count=6&amp;theme=vue&amp;show_icons=true"/> <img alt="Evening" src="https://github.com/Oreomeow/Oreomeow/blob/main/evening.png" width="270"/></p>
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oreomeow&amp;layout=compact" width="495"/></a> <img alt="Dream" src="https://github.com/Oreomeow/Oreomeow/blob/main/dream.png" width="300"/></p>
