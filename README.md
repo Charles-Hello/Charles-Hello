@@ -7,5 +7,3 @@
 
 * 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: ***1140601003@qq.com* 
 * ☘ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝘓𝘢𝘸**
-
-<p><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Oreomeow&amp;langs_count=6&amp;theme=vue&amp;show_icons=true"/></p>
