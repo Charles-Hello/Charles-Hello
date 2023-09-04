@@ -1,9 +1,26 @@
-<h1 align="center"> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 Charles </h1>
+#  🙋 Hello
+<p>✍️&nbsp;&nbsp;我是一个喵喵喵! 目前是名学生，喜欢学习一些编程知识!</p>
 
-<h2 align="center"> 𝑰 𝒂𝒎 𝒂 𝑮𝒊𝒕𝑯𝒖𝒃 𝒃𝒆𝒈𝒊𝒏𝒏𝒆𝒓, 𝒑𝒓𝒂𝒄𝒕𝒊𝒄𝒊𝒏𝒈 𝒐𝒏 𝒕𝒉𝒆 𝒑𝒂𝒕𝒉 𝒐𝒇 𝒂 𝒄𝒐𝒅𝒆 𝒘𝒊𝒛𝒂𝒓𝒅.</h2>
-
-<h2 align="center"> 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘: </h2>
+- 😜打算用编程娱乐余生！
 
 
-* 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: ***tg：喵喵喵 @Hss114060* 
-* ☘ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝘓𝘢𝘸**
+💪 正在研究: 
+
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
+
+
+
+🧠 计划学习:
+
+&emsp;&emsp;
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+
+
+* 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: ***tg：喵喵喵 @Hss114060***
+# 🧰 About
+<img src="https://github-readme-stats.vercel.app/api?username=Charles-Hello&show_icons=true&theme=material-palenight" width="400" height="157"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Hello&count_private=true&layout=compact&theme=default" width="400" height="157">
