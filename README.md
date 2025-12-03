@@ -20,6 +20,3 @@
 &emsp;&emsp;
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
-
-# 🧰 About
-<img src="https://github-readme-stats.vercel.app/api?username=Charles-Hello&show_icons=true&theme=material-palenight" width="400" height="157"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Hello&count_private=true&layout=compact&theme=default" width="400" height="157">
