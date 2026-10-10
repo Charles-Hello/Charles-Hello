@@ -1,9 +1,5 @@
 <div align="center">
 
-# Charles
-
-**Chromium internals · Anti-bot research · Security engineering**
-
 [![Followers](https://img.shields.io/github/followers/Charles-Hello?style=flat-square&logo=github)](https://github.com/Charles-Hello)
 <img src="https://img.shields.io/badge/Focus-Chromium-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Focus: Chromium" />
 <img src="https://img.shields.io/badge/Focus-Anti--bot-0f172a?style=flat-square" alt="Focus: Anti-bot" />
@@ -12,23 +8,6 @@
 </div>
 
 ---
-
-<table>
-  <tr>
-    <td valign="top">
-      <strong>Now</strong><br><br>
-      Chromium patching and detection resistance.<br>
-      Bot mitigation and risk-control research.<br>
-      Security engineering.
-    </td>
-    <td valign="top" width="34%">
-      <strong>How I work</strong><br><br>
-      Understand the system first.<br>
-      Measure before patching.<br>
-      Keep research reproducible.
-    </td>
-  </tr>
-</table>
 
 ## Focus
 
@@ -52,26 +31,6 @@
       Protocol analysis and crypto<br>
       Browser environment emulation<br>
       From offensive research to stable engineering
-    </td>
-  </tr>
-</table>
-
-## Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>
-      <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Browser / Frontend / Learning</strong><br><br>
-      <img src="https://img.shields.io/badge/Chromium-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chromium" />
-      <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /><br>
-      <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
     </td>
   </tr>
 </table>
